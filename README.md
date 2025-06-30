@@ -29,7 +29,7 @@ Sorokin, A., Nasyrova, R. (2025). GERA: A Corpus of Russian School Texts Annotat
 
 or
 ```
-@InProceedings{10.1007/978-3-031-88036-0_8,
+@InProceedings{sorokin2025gera,
   author="Sorokin, Alexey
           and Nasyrova, Regina",
   editor="Panchenko, Alexander
@@ -46,7 +46,7 @@ or
           and Tutubalina, Elena
           and Kasieva, Aida
           and Ignatov, Dmitry I.",
-  title="GERA: A Corpus of Russian School Texts Annotated for Grammatical Error Correction",
+  title="{GERA}: {A} {C}orpus of {R}ussian {S}chool {T}exts {A}nnotated for {G}rammatical {E}rror {C}orrection",
   booktitle="Analysis of Images, Social Networks and Texts",
   year="2025",
   publisher="Springer Nature Switzerland",
